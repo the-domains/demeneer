@@ -1,29 +1,41 @@
-name: kiwis
-favicon: null
-layout_spectrum: 0.4808035185560584
-typography_spectrum: 0.662561385659501
 title: knowledge worth spreading
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.9617021
+  brandStrength: 1
+  lightness: 0.6042553
+  brandColors:
+    - '#FFFFFF'
+    - '#FFA349'
+    - '#766959'
+    - '#090708'
+    - '#B6B2AF'
+  rhythmicContrast: 0.3446808
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: kiwis
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.6875
-  lightness: 0.2964648031629622
-  saturation: 0.4874575601425022
-  rhythmicContrast: 0.9362482170108706
-purpose: []
+typography_spectrum: 0.6574468
+layout_spectrum: 0.912766
