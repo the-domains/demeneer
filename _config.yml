@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.9617021
-  brandStrength: 1
-  lightness: 0.6042553
+  saturation: 0.5042553
+  brandStrength: 0.3574468
+  lightness: 0.7255319
   brandColors:
     - '#FFFFFF'
     - '#FFA349'
     - '#766959'
     - '#090708'
     - '#B6B2AF'
-  rhythmicContrast: 0.3446808
+  rhythmicContrast: 0.01276596
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: kiwis
 favicon: null
+name: kiwis
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.6574468
-layout_spectrum: 0.912766
+layout_spectrum: 1
