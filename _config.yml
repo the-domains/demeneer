@@ -1,5 +1,8 @@
+name: kiwis
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.6574468
 title: knowledge worth spreading
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5042553
-  brandStrength: 0.3574468
-  lightness: 0.7255319
   brandColors:
     - '#FFFFFF'
     - '#FFA349'
     - '#766959'
     - '#090708'
     - '#B6B2AF'
-  rhythmicContrast: 0.01276596
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: kiwis
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.6574468
-layout_spectrum: 1
+  brandStrength: 0.1875
+  lightness: 1
+  saturation: 0.4375
+  rhythmicContrast: 0
+purpose: []
