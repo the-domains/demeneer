@@ -1,0 +1,28 @@
+name: demeneer
+favicon: null
+layout_spectrum: 0.4808035185560584
+typography_spectrum: 0.662561385659501
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.94265944394283
+  lightness: 0.2964648031629622
+  saturation: 0.4874575601425022
+  rhythmicContrast: 0.9362482170108706
+purpose: []
