@@ -1,4 +1,4 @@
-name: demeneer
+name: kiwis
 favicon: null
 layout_spectrum: 0.4808035185560584
 typography_spectrum: 0.662561385659501
@@ -22,7 +22,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.94265944394283
+  brandStrength: 0.75
   lightness: 0.2964648031629622
   saturation: 0.4874575601425022
   rhythmicContrast: 0.9362482170108706
